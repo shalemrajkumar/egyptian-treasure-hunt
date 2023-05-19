@@ -1,0 +1,8 @@
+case,image1,probability1,image2,probability2,user_choice,score
+cr,1,0,2,1,left,0
+pr,3,0,4,1,right,0
+cp,5,1,6,0,right,1
+pp,8,1,7,1,left,1
+pr,4,1,3,1,right,0
+cp,5,1,6,0,left,1
+pr,3,0,4,1,right,0

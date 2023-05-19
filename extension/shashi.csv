@@ -1,0 +1,501 @@
+case,image1,probability1,image2,probability2,user_choice,score
+pr,4,0,3,0,right,0
+cp,6,1,5,0,right,0
+cr,1,0,2,1,left,0
+pp,8,1,7,1,right,0
+pr,4,0,3,0,right,-1
+cp,6,0,5,0,right,-1
+cr,1,0,2,1,left,-1
+cp,5,0,6,0,left,-1
+pp,7,0,8,1,right,-1
+cr,1,1,2,1,right,-2
+pr,4,1,3,0,left,-1
+cr,1,0,2,1,right,0
+pp,7,0,8,1,left,1
+pr,3,0,4,0,right,1
+cp,5,1,6,0,right,1
+cp,6,0,5,0,left,1
+pr,3,1,4,0,left,1
+cr,1,0,2,1,right,2
+pp,7,1,8,0,left,3
+cr,2,0,1,1,left,2
+pr,4,1,3,0,right,2
+cp,6,1,5,0,right,2
+pp,7,0,8,1,left,2
+cp,5,0,6,0,right,2
+pp,8,1,7,1,right,2
+pr,3,1,4,1,left,1
+cr,1,1,2,1,right,2
+pp,7,0,8,1,right,3
+pr,3,1,4,0,left,2
+cr,1,0,2,1,right,3
+pp,7,0,8,1,left,4
+cr,1,0,2,1,right,4
+cp,6,0,5,0,left,5
+pr,4,1,3,0,right,5
+cr,2,0,1,1,left,5
+cp,6,1,5,0,left,5
+pp,7,1,8,1,left,4
+pr,4,1,3,0,right,3
+cr,1,1,2,1,right,3
+pr,4,0,3,0,right,4
+cp,6,1,5,1,right,4
+pp,7,0,8,1,left,3
+pr,3,1,4,0,right,3
+cr,2,0,1,1,right,3
+cp,6,1,5,0,left,4
+pp,7,0,8,1,left,3
+pr,3,1,4,0,right,3
+cr,2,0,1,1,right,3
+pp,7,1,8,1,left,4
+cp,5,1,6,1,right,3
+cp,5,1,6,0,right,2
+pp,7,0,8,0,left,2
+pr,3,1,4,0,right,2
+cr,1,0,2,1,right,2
+pp,8,0,7,1,left,3
+pr,3,1,4,0,right,3
+cr,1,0,2,1,right,3
+cp,6,1,5,1,right,4
+pp,7,1,8,1,left,3
+cr,1,1,2,1,right,2
+pr,3,0,4,1,right,3
+cp,5,1,6,0,right,4
+pp,7,1,8,1,left,4
+cr,1,0,2,0,right,3
+pp,7,1,8,1,left,3
+pr,4,1,3,0,right,2
+cr,2,0,1,1,right,2
+cr,1,0,2,1,right,3
+pp,7,0,8,1,left,4
+pr,4,1,3,0,right,4
+cp,6,1,5,0,right,4
+pr,3,1,4,0,right,4
+cr,2,0,1,1,left,4
+cp,5,1,6,0,right,4
+pp,7,0,8,1,right,4
+pp,7,0,8,1,left,3
+cp,5,0,6,0,right,3
+cr,2,0,1,0,right,3
+pr,3,0,4,0,right,3
+cp,5,0,6,0,right,3
+pp,7,0,8,1,right,3
+cr,1,0,2,1,right,2
+pr,3,1,4,0,left,3
+cp,5,0,6,1,right,4
+pp,7,0,8,0,left,3
+cr,2,0,1,1,right,3
+cr,1,0,2,1,right,4
+cp,5,1,6,1,right,5
+pp,8,0,7,1,right,4
+pr,3,1,4,0,right,3
+cr,1,0,2,1,right,3
+pp,8,0,7,1,right,4
+cp,5,0,6,0,right,3
+pr,4,1,3,1,right,3
+cr,1,0,2,1,right,4
+cp,5,0,6,0,left,5
+pp,8,0,7,1,left,5
+pr,3,1,4,0,left,5
+cr,2,1,1,1,right,6
+pp,7,0,8,0,left,7
+pr,3,1,4,0,left,7
+cp,6,1,5,0,right,8
+cr,1,1,2,1,right,8
+pr,3,1,4,1,left,9
+pp,7,0,8,1,left,10
+cp,5,0,6,1,left,10
+cr,2,1,1,1,right,10
+pr,3,0,4,0,left,11
+pp,7,0,8,0,left,11
+cp,6,1,5,0,right,11
+cr,1,0,2,0,right,11
+cp,6,1,5,0,right,11
+pp,7,0,8,1,right,11
+pr,4,1,3,0,right,10
+cp,5,1,6,0,left,10
+cr,1,0,2,1,right,9
+pp,7,0,8,0,left,10
+pr,4,1,3,0,right,10
+pr,3,1,4,0,left,10
+cr,2,1,1,1,right,11
+cp,5,0,6,0,left,12
+pp,7,1,8,1,left,12
+cr,1,0,2,1,right,11
+pp,8,1,7,1,right,12
+cp,5,1,6,0,left,11
+pr,4,1,3,0,right,10
+cr,1,0,2,1,right,10
+pp,7,1,8,1,left,11
+cp,5,1,6,0,left,10
+pr,3,1,4,0,left,9
+cp,6,1,5,0,right,10
+pr,3,1,4,0,right,10
+pp,8,0,7,0,left,10
+cr,1,0,2,1,right,10
+pr,3,1,4,0,right,11
+pp,8,0,7,0,left,11
+cr,2,0,1,1,right,11
+cp,6,1,5,0,right,12
+cp,5,1,6,1,left,12
+pp,7,0,8,0,right,11
+cr,1,0,2,1,right,11
+pr,3,1,4,0,left,12
+cp,5,1,6,0,right,13
+pr,3,1,4,0,left,13
+pp,7,0,8,0,right,14
+cr,1,1,2,1,right,14
+cp,6,0,5,0,right,15
+cr,1,1,2,1,right,15
+pr,4,1,3,1,left,16
+pp,7,0,8,0,right,17
+pr,4,0,3,0,right,17
+pp,8,0,7,1,left,17
+cr,1,0,2,1,right,17
+cp,5,0,6,0,right,18
+pr,3,1,4,1,right,18
+pp,7,0,8,1,left,19
+cr,1,0,2,1,right,19
+cp,5,1,6,0,left,20
+pr,3,1,4,0,left,19
+pp,7,1,8,1,left,20
+cp,5,1,6,0,right,19
+cr,1,1,2,1,right,19
+cr,1,0,2,1,right,20
+pp,8,1,7,1,right,21
+pr,3,1,4,0,left,20
+cp,5,0,6,0,right,21
+pp,7,0,8,0,left,21
+cr,1,0,2,1,right,21
+cp,5,1,6,1,right,22
+pr,3,1,4,0,left,21
+pp,7,1,8,0,right,22
+cr,2,1,1,1,left,22
+cp,5,0,6,0,right,23
+pr,3,1,4,0,left,23
+pp,7,1,8,0,right,24
+cr,2,0,1,1,left,24
+cp,6,1,5,0,right,24
+pr,3,1,4,0,left,24
+pr,3,1,4,0,left,25
+cr,1,0,2,0,right,26
+pp,7,0,8,1,left,26
+cp,5,1,6,1,right,26
+pp,7,0,8,1,left,25
+cp,5,0,6,0,right,25
+pr,3,1,4,0,left,25
+cr,1,0,2,0,right,26
+cp,5,1,6,1,right,26
+cr,2,0,1,0,left,25
+pr,3,1,4,0,left,25
+pp,8,0,7,1,left,26
+cp,5,1,6,0,right,26
+pr,3,1,4,0,left,26
+pp,7,0,8,1,left,27
+cr,2,0,1,1,right,27
+cp,5,1,6,0,right,28
+pr,3,0,4,0,left,28
+cr,2,1,1,1,right,28
+pp,7,0,8,1,left,29
+pp,8,0,7,0,left,29
+pr,3,1,4,0,left,29
+cp,5,1,6,0,right,30
+cr,2,0,1,0,right,30
+cr,1,1,2,1,right,30
+pr,3,0,4,0,left,31
+cp,6,1,5,0,left,31
+pp,7,1,8,1,left,30
+cp,5,0,6,0,right,29
+pr,4,1,3,0,left,29
+cr,1,0,2,1,right,30
+cp,5,1,6,0,right,31
+pp,7,0,8,1,right,31
+cr,1,0,2,0,right,30
+pr,3,1,4,1,left,30
+pr,3,0,4,0,left,31
+cr,1,0,2,1,right,31
+pp,7,0,8,1,left,32
+cp,5,0,6,0,right,32
+pr,3,1,4,1,left,32
+pp,8,0,7,1,left,33
+cp,5,1,6,1,right,33
+cr,1,1,2,1,right,32
+pp,8,0,7,0,left,33
+cr,1,0,2,1,right,33
+cp,5,1,6,0,right,34
+pr,4,1,3,1,left,34
+cr,1,1,2,1,right,35
+pr,3,0,4,0,left,36
+cp,5,1,6,0,right,36
+pp,7,0,8,1,left,36
+cr,1,1,2,1,right,36
+pp,8,0,7,1,left,37
+cp,6,1,5,0,right,37
+pr,3,0,4,0,left,37
+cp,5,0,6,0,right,37
+cr,2,1,1,1,right,37
+pr,3,1,4,0,left,38
+pp,8,0,7,1,left,39
+cr,1,0,2,1,right,39
+pp,7,0,8,1,left,40
+pr,3,1,4,0,left,40
+cp,5,0,6,0,right,41
+pp,8,1,7,1,left,41
+cr,1,0,2,0,right,40
+cp,5,0,6,1,right,40
+pr,4,1,3,0,left,39
+cp,5,1,6,0,right,40
+pp,8,1,7,1,left,40
+cr,2,0,1,0,right,39
+pr,3,1,4,0,left,39
+cp,6,1,5,0,right,40
+pr,3,1,4,1,left,40
+cr,1,0,2,1,right,41
+pp,7,1,8,1,left,42
+pp,7,0,8,0,right,41
+pr,4,0,3,1,left,41
+cp,5,1,6,1,right,41
+cr,1,0,2,0,right,40
+pp,8,0,7,1,left,40
+cp,5,0,6,0,right,40
+pr,3,1,4,0,left,40
+cr,1,0,2,1,right,41
+pp,8,1,7,0,left,42
+cp,5,0,6,0,right,41
+pr,3,1,4,0,left,41
+cr,1,1,2,0,right,42
+pr,3,1,4,0,left,42
+cr,1,0,2,1,right,43
+pp,7,0,8,1,right,44
+cp,5,1,6,0,right,43
+cr,1,0,2,1,right,43
+pr,3,1,4,0,left,44
+pp,7,0,8,0,right,45
+cp,5,1,6,0,right,45
+pp,8,0,7,1,right,45
+cp,5,0,6,0,right,44
+cr,1,0,2,0,right,44
+pr,3,0,4,1,left,44
+cp,5,1,6,0,right,44
+pr,4,1,3,0,left,44
+cr,1,1,2,1,right,45
+pp,7,0,8,1,right,46
+pp,7,1,8,1,right,45
+cp,5,1,6,1,right,44
+cr,1,0,2,0,right,43
+pr,3,1,4,0,left,43
+pp,7,1,8,1,left,44
+pr,3,0,4,0,left,43
+cp,5,1,6,0,right,43
+cr,2,0,1,0,right,43
+cr,2,1,1,1,right,43
+pr,3,1,4,0,left,44
+pp,7,0,8,1,right,45
+cp,5,1,6,0,right,44
+pp,7,1,8,1,left,44
+cr,2,1,1,1,right,43
+pr,3,1,4,0,left,44
+cp,6,1,5,0,right,45
+cr,1,0,2,1,right,45
+pp,7,0,8,1,right,46
+cp,6,0,5,0,left,45
+pr,3,0,4,0,left,45
+cp,5,1,6,0,right,45
+pr,3,0,4,0,left,45
+cr,2,0,1,0,right,45
+pp,7,1,8,1,left,45
+cr,1,0,2,1,right,44
+pr,4,1,3,0,left,45
+pp,7,0,8,1,right,46
+cp,5,1,6,0,right,45
+pr,4,1,3,0,left,45
+pp,8,0,7,1,left,46
+cp,5,1,6,1,right,46
+cr,1,0,2,0,right,45
+cr,1,1,2,1,right,45
+pp,7,0,8,0,right,46
+pr,4,1,3,0,left,46
+cp,5,1,6,0,right,47
+cr,1,0,2,1,right,47
+pp,7,0,8,1,left,48
+cp,5,1,6,1,right,48
+pr,3,1,4,0,left,47
+pp,7,0,8,1,left,48
+pr,4,1,3,0,right,48
+cp,6,1,5,0,right,48
+cr,1,0,2,1,right,48
+pr,3,1,4,0,left,49
+cp,6,1,5,0,right,50
+pp,8,0,7,1,left,50
+cr,1,0,2,0,right,50
+pr,4,0,3,0,right,50
+cp,5,1,6,0,right,50
+pp,7,0,8,1,left,50
+cr,1,0,2,1,right,50
+pr,3,1,4,0,left,51
+pp,7,1,8,1,left,52
+cp,5,1,6,0,right,51
+cr,2,1,1,1,right,51
+cp,6,0,5,1,right,52
+pp,7,0,8,1,right,51
+cr,1,0,2,1,right,50
+pr,3,1,4,0,left,51
+pp,8,0,7,0,left,52
+cp,5,0,6,0,right,52
+cr,2,0,1,1,right,52
+pr,4,0,3,1,left,53
+cr,1,1,2,0,right,53
+pr,4,1,3,0,left,53
+cp,5,1,6,0,right,54
+pp,7,0,8,0,left,54
+cr,1,0,2,1,right,54
+pr,3,1,4,0,left,55
+cp,5,1,6,0,right,56
+pp,7,0,8,0,right,56
+cp,5,1,6,0,right,56
+cr,2,0,1,1,right,56
+pp,7,0,8,1,right,57
+pr,4,1,3,0,left,56
+cr,2,1,1,1,right,57
+cp,5,0,6,1,right,58
+pr,3,1,4,0,left,57
+cp,5,1,6,0,right,58
+cr,2,1,1,1,right,58
+pr,3,1,4,0,right,59
+pp,7,1,8,1,right,59
+cp,5,1,6,0,right,58
+pr,3,1,4,0,left,58
+pp,7,1,8,1,right,59
+cr,1,0,2,1,right,58
+cp,6,1,5,0,right,59
+cr,2,0,1,1,right,59
+pr,4,1,3,0,left,60
+pp,8,1,7,1,right,61
+pr,3,1,4,1,right,60
+cp,5,1,6,0,right,61
+pp,7,0,8,0,right,61
+cr,1,0,2,1,right,61
+cr,2,0,1,0,right,62
+cp,5,1,6,0,right,62
+pp,8,0,7,1,right,62
+pr,3,1,4,0,right,61
+cp,5,1,6,0,right,61
+pp,7,1,8,1,right,61
+cr,1,1,2,1,right,60
+pr,3,1,4,1,left,61
+pp,8,0,7,0,left,62
+pr,3,1,4,1,left,62
+cr,2,1,1,1,right,63
+cp,5,0,6,0,right,64
+cr,1,0,2,1,right,64
+pp,7,1,8,1,right,65
+cp,5,1,6,0,right,64
+"(3, 6)",3,6,left
+"(4, 5)",5,4,right
+"(0, 2)",2,0,left
+"(1, 3)",1,3,left
+"(1, 7)",1,7,left
+"(1, 5)",1,5,left
+"(5, 7)",5,7,left
+"(1, 3)",1,3,left
+"(2, 4)",4,2,right
+"(0, 4)",0,4,right
+"(0, 7)",0,7,left
+"(3, 4)",3,4,left
+"(1, 4)",1,4,left
+"(3, 4)",3,4,left
+"(2, 7)",2,7,left
+"(1, 5)",5,1,right
+"(2, 3)",3,2,right
+"(4, 5)",4,5,left
+"(2, 7)",2,7,left
+"(0, 3)",0,3,right
+"(0, 5)",5,0,left
+"(2, 5)",5,2,right
+"(3, 5)",5,3,left
+"(1, 7)",1,7,left
+"(1, 6)",6,1,left
+"(0, 1)",0,1,right
+"(4, 6)",4,6,right
+"(3, 7)",3,7,left
+"(2, 6)",2,6,left
+"(1, 4)",1,4,left
+"(0, 6)",0,6,right
+"(0, 5)",0,5,right
+"(3, 7)",7,3,right
+"(5, 6)",5,6,right
+"(1, 7)",7,1,right
+"(1, 5)",1,5,left
+"(0, 2)",0,2,right
+"(5, 6)",6,5,left
+"(2, 4)",2,4,left
+"(4, 7)",7,4,right
+"(0, 1)",0,1,right
+"(3, 4)",3,4,left
+"(0, 2)",0,2,right
+"(1, 6)",6,1,right
+"(1, 5)",5,1,right
+"(0, 1)",0,1,right
+"(2, 6)",2,6,left
+"(3, 7)",3,7,left
+"(4, 5)",5,4,left
+"(4, 6)",4,6,left
+"(0, 5)",0,5,right
+"(5, 6)",5,6,right
+"(5, 7)",7,5,right
+"(2, 3)",2,3,left
+"(3, 6)",3,6,right
+"(0, 7)",0,7,right
+"(3, 5)",3,5,right
+"(3, 5)",3,5,right
+"(4, 6)",4,6,right
+"(0, 3)",0,3,right
+"(4, 7)",7,4,right
+"(2, 5)",5,2,right
+"(3, 7)",3,7,left
+"(2, 4)",2,4,left
+"(4, 6)",4,6,right
+"(6, 7)",6,7,left
+"(0, 7)",0,7,left
+"(1, 4)",1,4,left
+"(1, 3)",3,1,left
+"(1, 2)",1,2,right
+"(4, 7)",7,4,right
+"(2, 6)",6,2,right
+"(6, 7)",6,7,right
+"(0, 3)",3,0,left
+"(2, 7)",2,7,left
+"(0, 4)",0,4,right
+"(0, 4)",0,4,right
+"(1, 2)",2,1,left
+"(0, 6)",6,0,right
+"(0, 1)",0,1,right
+"(3, 6)",3,6,right
+"(6, 7)",6,7,right
+"(1, 2)",2,1,left
+"(1, 6)",6,1,left
+"(5, 6)",5,6,right
+"(2, 5)",5,2,right
+"(2, 4)",2,4,right
+"(3, 5)",5,3,left
+"(0, 3)",3,0,left
+"(0, 4)",0,4,right
+"(2, 3)",2,3,left
+"(0, 5)",0,5,right
+"(6, 7)",6,7,right
+"(5, 7)",5,7,left
+"(0, 2)",0,2,right
+"(1, 7)",1,7,left
+"(1, 3)",3,1,right
+"(0, 6)",6,0,right
+"(1, 6)",6,1,right
+"(4, 5)",4,5,left
+"(1, 4)",4,1,right
+"(1, 2)",2,1,left
+"(2, 5)",2,5,left
+"(2, 7)",2,7,left
+"(3, 6)",3,6,right
+"(2, 3)",2,3,left
+"(3, 4)",3,4,left
+"(4, 7)",4,7,left
+"(0, 6)",6,0,left
